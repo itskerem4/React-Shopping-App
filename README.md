@@ -1,3 +1,9 @@
+Screnshoot 1
+![alt text](https://github.com/itskerem4/React-Shopping-App/blob/main/screenshoot/screenshoot1.png)
+
+Screnshoot 2
+![alt text](https://github.com/itskerem4/React-Shopping-App/blob/main/screenshoot/screenshoot2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
